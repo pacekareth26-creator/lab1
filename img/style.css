@@ -1,0 +1,6 @@
+ body {color: bisque;background-color: grey;}
+h1 { text-underline-position: below;
+}
+ h2 {text-decoration: underline; }
+ p {font-family: sans-serif;}
+ .nav{border-color: rgb(149, 108, 65);color: bisque;}
